@@ -1,14 +1,14 @@
 {
   "name": "proyecto-crud",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto CRUD utilizando Node.js, Express, MongoDB y Mongoose",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrea Iñigo Lara",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
